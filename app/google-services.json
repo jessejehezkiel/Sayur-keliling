@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598928415675",
+    "project_id": "sayurkelilingrevisi-37890",
+    "storage_bucket": "sayurkelilingrevisi-37890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598928415675:android:9c1db268566818f1e6029e",
+        "android_client_info": {
+          "package_name": "com.example.sayurkelilingrevisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598928415675-obfkvnvteht34b2lpsgbr4vglt1lp3em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpxVEbDMZh-UOGbLGPX-8_a27BvpKnNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598928415675-obfkvnvteht34b2lpsgbr4vglt1lp3em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
